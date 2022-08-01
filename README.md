@@ -17,9 +17,9 @@
 
 - 🌱 Estoy aprendiendo sobre **Angular, NodeJs , django,etc..**
 
-- 💬 Preguntenme acerca de ** Hacking etico, pentesting, automatizaciones**
+- 💬 Preguntenme acerca de **Hacking etico, pentesting, automatizaciones**
 
-- 📫 Contactame **dany.15.dars@gmail.com
+- 📫 Contactame **dany.15.dars@gmail.com**
 
 
 
